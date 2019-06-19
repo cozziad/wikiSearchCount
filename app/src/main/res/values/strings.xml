@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WikiSearchCount</string>
+    <string name="create_search_count">Create Search Count</string>
+    <string name="enter_search_name">Enter Search Name</string>
 </resources>
